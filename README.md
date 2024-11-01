@@ -7,4 +7,4 @@
 ### step one: click any channel. (not Channels.json, ChannelsActive.json, ChannelsActiveMinimal.json or ChannelsAll.json)
 ### step two: if it doesnt have anything then it doesnt work.
 ### step three: repeat if step two was done.
-#### channels found my me: ZWindowsClientLauncher.txt ZProjectUWPUA.txt (i mean public or not i didnt find)
+#### channels found my me: ZProjectUWPUA.txt (i mean public or not i didnt find)
